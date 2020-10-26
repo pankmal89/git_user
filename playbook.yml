@@ -1,0 +1,8 @@
+---
+
+- hosts: all
+  tasks:
+    - name: group add
+      group:
+        name: developer
+        state: present
