@@ -4,5 +4,5 @@ workstation
 [local]
 workstation
 
-#[dev]
-#node3
+[dev]
+node3
