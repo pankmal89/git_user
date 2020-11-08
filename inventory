@@ -2,7 +2,5 @@
 workstation
 
 [local]
-workstation
+local.localhost
 
-[dev]
-node3

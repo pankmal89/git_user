@@ -1,7 +1,6 @@
 ---
 
-- hosts: all
-  become: true 
+- hosts: all 
   tasks:
     - name: group add
       group:
