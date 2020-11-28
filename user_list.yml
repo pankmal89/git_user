@@ -3,5 +3,5 @@ users:
     group: developer
   - name: harry
     group: manager
-  - name: bob1
+  - name: bob
     group: developer
